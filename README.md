@@ -18,8 +18,7 @@
 ---
 
 **Version 1.0 — Community Edition**
-**Palette:** Kaspa Green `#49EACB` · Deep Black `#0B0F14` · Steel Silver `#C7D2DC` · Midnight Blue `#101C3D`
-**Visual motifs:** BlockDAG lattices, interconnected nodes, block-graph textures, glowing directed edges
+
 
 </div>
 
