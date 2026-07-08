@@ -512,9 +512,7 @@ For designers converting this document to PDF (Canva / LaTeX / InDesign):
 
 **Layout**
 
-- A4 page size, 2.5 cm margins
-- Dark cover page with centered logo mark and title; light, high-contrast interior pages for readability
-- Diagrams rendered at full text-width, centered, with captions below
+
 
 ---
 
