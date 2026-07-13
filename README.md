@@ -349,5 +349,3 @@ Kaspa Web is designed to evolve into a fully decentralized internet stack in whi
 - Trust is optional
 - Governance is open
 - ICC powers all logic
-
-This outlook describes the protocol's intended direction as defined by the RFC and upgrade path in this document. Realization of the later phases is contingent on RFC approval, ICC upgrade, and hard-fork activation as described in Section 5.
